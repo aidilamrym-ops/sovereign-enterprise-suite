@@ -1,0 +1,11 @@
+{
+  "project": "buildwebtools-com",
+  "owner": "aidilamrym-ops",
+  "status": "ready_for_deployment",
+  "domains": [
+    "buildwebtools.com",
+    "apptools.site",
+    "apptools.web.id",
+    "buildwebtools.online"
+  ]
+}
